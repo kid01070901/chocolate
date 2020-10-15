@@ -1,0 +1,17 @@
+body{
+    background: #223545;
+}
+
+.carousel-item{
+    height: 740PX;
+}
+
+.card{
+    height: 360PX;
+
+    img{
+        height: 100%;
+
+        object-fit: cover;
+    }
+}
